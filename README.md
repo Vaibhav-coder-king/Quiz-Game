@@ -1,4 +1,4 @@
-## 🧠 Quiz Game using CustomTkinter
+🧠 Quiz Game using CustomTkinter
 A simple and interactive multiple-choice quiz game built with Python's customtkinter library for a modern, themed GUI experience.
 
 # 📸 Preview
