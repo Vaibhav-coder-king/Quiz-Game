@@ -4,6 +4,11 @@ A simple and interactive multiple-choice quiz game built with Python's customtki
 
 # 📸 Preview
 
+<img width="749" height="648" alt="image" src="https://github.com/user-attachments/assets/28eccbb0-a9de-4e71-bb5d-19d6c07e47a6" />
+
+<img width="745" height="655" alt="image" src="https://github.com/user-attachments/assets/a8fe5af1-fd9a-42b1-a85c-70aa59f2fcc9" />
+
+<img width="749" height="660" alt="image" src="https://github.com/user-attachments/assets/d2fb77cb-6381-4130-8ad3-a8a80b9c5194" />
 
 # 💡 Features
 
